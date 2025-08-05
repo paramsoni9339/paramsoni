@@ -1,49 +1,30 @@
-<div align="center">
-  <br />
-    <a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank">
-      <img src="public/images/readme.png" alt="Project Banner">
-    </a>
-  <br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  </div>
+# Param Soni's Interactive 3D Portfolio Website
 
-  <h3 align="center">Interactive 3D Portfolio Website</h3>
+Welcome to my personal 3D portfolio project! I'm **Param Soni**, a passionate developer and designer. This website showcases my skills, projects, and experience using modern web technologies and interactive 3D graphics.
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
-</div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 Table of Contents
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Assets & Snippets](#links)
-6. 🚀 [More](#more)
 
-## ⚠️ Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+## ⚡ About This Project
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
+This is my personal portfolio website built with React, Three.js, and other modern tools. It features interactive 3D models, smooth animations, and a responsive design. Explore my work, experience, and get in touch!
 
-<a href="https://www.youtube.com/watch?v=E-fdPfRxkzQ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
-## <a name="introduction">🤖 Introduction</a>
+## 🤖 Introduction
 
-The 3D Portfolio project is a highly engaging personal website that features animated 3D scenes, smooth camera transitions, interactive model showcases, and responsive design. It’s ideal for developers, designers, or freelancers looking to stand out in the digital crowd.
+This 3D portfolio is designed to highlight my journey as a developer and designer. It includes animated 3D scenes, interactive showcases, and a modern UI to make my work stand out.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **50k+** members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+
+## ⚙️ Tech Stack
 
 - Three.js
 - React Three Fiber
@@ -53,90 +34,51 @@ If you're getting started and need assistance or face any bugs, join our active 
 - Vite
 - React 19
 
-## <a name="features">🔋 Features</a>
 
-### Features of the 3D Portfolio Project
+## 🔋 Features
 
-👉 Animated 3D models and reveal animations
+- Animated 3D models and reveal animations
+- Realistic lighting and shadows
+- GSAP-powered scroll interactions
+- Responsive design with Tailwind CSS and Flexbox/Grid
+- Micro Interactions
+- Multi-section layout (About, Projects, Contact)
+- Mobile optimized 3D experience
 
-👉 Realistic lighting and shadows
 
-👉 GSAP-powered scroll interactions
+## 🤸 Quick Start
 
-👉 Responsive design with Tailwind CSS and Flexbox/Grid
+To run this project locally:
 
-👉 Micro Interactions
-
-👉 Multi-section layout (About, Projects, Contact)
-
-👉 Mobile optimized 3D experience
-
-and many more, including code architecture and reusability.
-
-## <a name="quick-start">🤸 Quick Start</a>
-
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
-Make sure you have the following installed on your machine:
-
+**Prerequisites:**
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
-- [npm](https://www.npmjs.com/) (Node Package Manager)
+- [npm](https://www.npmjs.com/)
 
-**Cloning the Repository**
-
+**Clone the repository:**
 ```bash
-git clone https://github.com/adrianhajdin/3d-portfolio.git
-cd 3d-portfolio
+git clone https://github.com/paramsoni9339/paramsoni.git
+cd paramsoni
 ```
 
-**Installation**
-
-Install the project dependencies using npm:
-
+**Install dependencies:**
 ```bash
 npm install
 ```
 
-**Set Up Environment Variables**
-
-Create a new file named `.env` in the root of your project and add the following content:
-
-```env
-VITE_APP_EMAILJS_SERVICE_ID=
-VITE_APP_EMAILJS_TEMPLATE_ID=
-VITE_APP_EMAILJS_PUBLIC_KEY=
-```
-
-Replace the placeholder values with your actual **[EmailJS](https://www.emailjs.com/)** credentials.
-
-**Running the Project**
-
+**Run the project:**
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173/) in your browser to view the project.
+Open [http://localhost:5173](http://localhost:5173/) in your browser to view the portfolio.
 
 
-## <a name="links">🔗 Assets and Snippets</a>
 
-Assets and snippets used in the project can be found in the **[video kit](https://jsm.dev/pfolio25-kit)**.
+---
 
-<a href="https://jsm.dev/pfolio25-kit" target="_blank">
-  <img src="public/images/readme-video-kit.png" alt="Video Kit Banner">
-</a>
+## � About Me
 
+I'm Param Soni, and this portfolio is a reflection of my passion for web development and design. Feel free to explore, check out my projects, and connect with me!
 
-## <a name="more">🚀 More</a>
-
-**Advance your skills with JSM Pro Courses**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with
-detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://beta.jsmastery.pro/" target="_blank">
-  <img src="public/images/readme-bottom.png" alt="Project Banner">
-</a>
+Thank you for visiting!
