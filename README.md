@@ -1,5 +1,5 @@
 
-# Param Soni's Interactive 3D Portfolio Website
+# My Interactive 3D Portfolio Website
 
 Welcome to my personal 3D portfolio project! I'm **Param Soni**, a passionate developer and designer. This website showcases my skills, projects, and experience using modern web technologies and interactive 3D graphics.
 
